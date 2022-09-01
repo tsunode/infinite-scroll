@@ -4,11 +4,9 @@ import type { IPokemonCardProps } from './types';
 
 export const PokemonCard = ({ pokemon, number }: IPokemonCardProps) => (
   <Container>
-    <img src={pokeball} alt='' />
+    <img src={pokeball} alt='Pokemon Pokeball' />
     <span>
       {number} - {pokemon.name.toUpperCase()}
     </span>
   </Container>
 );
-
-export default PokemonCard;

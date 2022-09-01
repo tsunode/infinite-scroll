@@ -1,3 +1,3 @@
-export interface IInFiniteScrollProps {
+export interface IInfiniteScrollProps {
   callback: () => void;
 }
