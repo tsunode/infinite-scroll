@@ -4,7 +4,7 @@
 
 Primeiramente, se você não chegou até aqui através do meu canal, corre lá agora que eu vou te ensinar como criar um scroll infinito apenas com React e Javascript Nativo:
 
-[![Scroll Infinito no React, clica e assista!](https://img.youtube.com/vi/OMxGAO2HaQk/0.jpg)](https://www.youtube.com/watch?v=OMxGAO2HaQk)
+[![Scroll Infinito no React, clica e assista!](https://img.youtube.com/vi/JMK_uwrBW2g/0.jpg)](https://youtu.be/JMK_uwrBW2g)
 
 > A partir daqui vou considerar que você já viu o vídeo.
 
